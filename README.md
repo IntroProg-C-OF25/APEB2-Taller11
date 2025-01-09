@@ -1,11 +1,12 @@
 # Taller 11
 
-## Construcción de programas usando arreglos bidimensionales
+## Construcción de programas usando módulos y funciones
 
 * Leer detenidamente cada problemática propuesta.
-* Programa/codifíque con el lenguaje de alto nivel Java (IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación. 
-* Para cada programa, genere una clase independiente pero dentro de un solo/único proyecto Java App. (NO CREE VARIOS PROYECTOS, ni los empaquete, por favor, agregar los .java en el paquete por default). No olvide titular a cada clase, con el nombre representativo de la solución y con el número del problema de este listado. 
-* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas. Y con el objetivo de evidenciar los resultados, por favor, dentro de la misma clase (al final de todo el código), con los caracteres de bloque de comentarios, copie y pegue los resultados obtenidos por su solución, ejemplo: 
+* Programe/codifíque con el lenguaje de alto nivel Java _**(IDE NetBeans)**_, sus soluciones a cada uno de los problemas listados a continuación. 
+* Para cada programa, genere una clase independiente pero dentro de un solo/único proyecto Java App. _(NO CREE VARIOS PROYECTOS, ni los empaquete, por favor, agregar los .java en el paquete por default)_. No olvide titular a cada clase, con el nombre representativo de la solución y con el número del problema de este listado. 
+* No olvide la eficiencia en sus soluciones, limpieza del código, identación correcta, comenterias en procesos complejos, etc. lo cual para el 2do.Bim. no es opcional. 
+* Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas. Y con el objetivo de evidenciar los resultados, por favor, dentro de la misma clase _(al final de todo el código)_, con los caracteres de bloque de comentarios, copie y pegue los resultados obtenidos en su solución, ejemplo: 
 
 FORMATO:
 ```
@@ -22,8 +23,6 @@ Ricardo  | 7,43   | 9,50   | 6,96   | 8,01
 Carlos   | 5,38   | 6,24   | 9,22   | 6,84    
  */ 
 ```
-
-## Construcción de programas usando módulos y funciones
 
 ### Problema 01
 Generar los procedimientos y/o funciones que impriman los valor pares, impares y el promedio de un arreglo bidimensional. El (los) procedimiento(s) o método(s) deben ser invocados desde el método principal (quien es el único responsable de gestionar las entradas/salidas); además el método debe recibir como parámetro un arreglo bidimensional.
